@@ -1,0 +1,18 @@
+//
+//  main.m
+//  CorePlot
+//
+//  Created by Muhammed Rashid A on 03/05/13.
+//  Copyright (c) 2013 __MyCompanyName__. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "CPAppDelegate.h"
+
+int main(int argc, char *argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([CPAppDelegate class]));
+    }
+}
